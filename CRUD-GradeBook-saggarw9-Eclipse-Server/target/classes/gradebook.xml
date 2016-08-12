@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Gradebook>
+    <GradingElement allocation="10" name="Assignment">
+        
+    
+    </GradingElement>
+
+<GradingElement allocation="50" name="Project">
+        <Student>
+            <id>12</id>
+            <Name>Surbhi</Name>
+            <Grade>A+</Grade>
+            <Feedback>very good</Feedback>
+        </Student>
+    
+    </GradingElement>
+<GradingElement allocation="20" name="quiz">
+        <Student>
+            <id>13</id>
+            <Name>arpit</Name>
+            <Grade>A</Grade>
+            <Feedback>Very good</Feedback>
+        </Student>
+    </GradingElement>
+
+</Gradebook>
